@@ -127,7 +127,7 @@ class Login extends React.Component {
     return (
       <div>
         <div className={styles.flex_column_wrapper}>
-          <span className={styles.welcome_text}>欢迎使用《组卷系统》</span>
+          <span className={styles.welcome_text}>组卷系统</span>
           {
             renderLoginTip()
           }
