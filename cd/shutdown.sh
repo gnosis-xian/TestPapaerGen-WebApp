@@ -1,0 +1,1 @@
+ps -aux | grep java | grep test-paper-generation-3.0.0.jar | awk '{print $2}' | xargs kill
