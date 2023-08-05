@@ -9,7 +9,7 @@ export const Banner50DataSource = {
         name: 'title',
         children: (
           <span>
-            <p>组卷系统</p>
+            <p>组卷系统 paper.agno.top</p>
           </span>
         ),
         className: 'banner5-title',
