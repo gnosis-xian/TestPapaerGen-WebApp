@@ -26,7 +26,7 @@ export default defineConfig({
       routes: [
 
         // 登陆
-        { path: '/',  exact: true, component: '@/pages/login', title: "组卷系统" },
+        { path: '/',  exact: true, component: '@/pages/login', title: "组卷系统 paper.agno.top" },
         { path: '/login',  exact: true, redirect: '/' },
 
         // 管理员
